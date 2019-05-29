@@ -1,0 +1,49 @@
+C:\Users\598515513\source\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe.config
+C:\Users\598515513\source\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe
+C:\Users\598515513\source\repos\loginAdm\loginAdm\bin\Debug\loginAdm.pdb
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csprojAssemblyReference.cache
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Form1.resources
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Properties.Resources.resources
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.GenerateResource.cache
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CoreCompileInputs.cache
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.exe
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.pdb
+C:\Users\598515513\source\repos\loginAdm\loginAdm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CopyComplete
+C:\Users\598515513\source\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Menu.resources
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe.config
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.pdb
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csprojAssemblyReference.cache
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Form1.resources
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Menu.resources
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Properties.Resources.resources
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.GenerateResource.cache
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CoreCompileInputs.cache
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CopyComplete
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.exe
+E:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.pdb
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe.config
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.pdb
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csprojAssemblyReference.cache
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Form1.resources
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Menu.resources
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Properties.Resources.resources
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.GenerateResource.cache
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CoreCompileInputs.cache
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CopyComplete
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.exe
+D:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.pdb
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe.config
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.exe
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\bin\Debug\loginAdm.pdb
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csprojAssemblyReference.cache
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Form1.resources
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Menu.resources
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.Properties.Resources.resources
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.GenerateResource.cache
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CoreCompileInputs.cache
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.csproj.CopyComplete
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.exe
+F:\etec\PROJETO C#\repos\loginAdm\loginAdm\obj\Debug\loginAdm.pdb
